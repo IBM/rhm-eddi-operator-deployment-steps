@@ -161,3 +161,8 @@ spec:
 - You can now visit the URL to access the E.D.D.I Dashboard.
 
 ![ocp-eddidashboard](doc/source/images/eddidashboard.png)
+
+# Reference
+You can refer the following documentation from [E.D.D.I labs](https://docs.labs.ai/) to learn more about the operator and its features.
+
+- <https://docs.labs.ai/redhat-openshift>
