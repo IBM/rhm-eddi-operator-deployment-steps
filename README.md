@@ -94,8 +94,8 @@ type: tutorial
 
 ### Step 1: Configure OpenShift Cluster(ROKS) with Red Hat Marketplace & Connect to the OpenShift Cluster in CLI (Command Line Interface)
 
-- Refer the first two steps of the Tutorial to Configure Openshift Cluster(ROKS) with Red Hat Marketplace and Connect to the Openshift Cluster in CLI (Command Line Interface)
-    - Tutorial Link: <https://github.com/IBM/rhm-operator-deployment-steps>
+- Refer the **first two steps** of the Tutorial to **Configure Openshift Cluster(ROKS) with Red Hat Marketplace** and **Connect to the Openshift Cluster in CLI (Command Line Interface)**
+    - Tutorial Link: <https://developer.ibm.com/tutorials/get-started-using-a-cockroachdb-operator-hosted-on-red-hat-marketplace>
 
 ### Step 2: Deploy E.D.D.I Operator on OpenShift cluster
 
